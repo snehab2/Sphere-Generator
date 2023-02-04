@@ -1,0 +1,11 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+.titleBody {
+  text-align:center;
+  font-family: 'Secular One', sans-serif;
+  padding-top:5rem;
+  padding-bottom:5rem;
+}
